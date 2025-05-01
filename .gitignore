@@ -10,3 +10,4 @@ venv/
 
 # Файлы IDE
 .idea/
+.env
