@@ -31,5 +31,4 @@ typing_extensions==4.13.2
 urllib3==2.4.0
 yarl==1.20.0
 telebot
-requests==2.31.0
 
